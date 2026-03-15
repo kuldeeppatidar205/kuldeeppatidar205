@@ -19,6 +19,7 @@ I am a passionate Full-Stack Developer and an aspiring entrepreneur. I focus on 
 
 ---
 **Frontend & Tools:**
+---
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
