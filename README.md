@@ -33,7 +33,7 @@ I am a passionate Full-Stack Developer and an aspiring entrepreneur. I focus on 
 ---
 
 ### 🤝 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/kuldeep-patidar-4ab9a2367)
+- **LinkedIn:** [linkedin.com/in/kuldeep-patidar](https://linkedin.com/in/kuldeep-patidar-4ab9a2367)
 - **Portfolio:** [Coming Soon]
 
 *"Building tools today for a better harvest tomorrow."*
