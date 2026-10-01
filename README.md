@@ -34,6 +34,6 @@ I am a passionate Full-Stack Developer and an aspiring entrepreneur. I focus on 
 
 ### 🤝 Connect with Me
 - **LinkedIn:** [linkedin.com/in/kuldeep-patidar](https://linkedin.com/in/kuldeep-patidar-4ab9a2367)
-- **Portfolio:** kuldeep-patidar.vercel.app
+- **Portfolio:** [Kuldeep patidar](https://kuldeep-patidar.vercel.app)
 
 *"Building tools today for a better harvest tomorrow."*
